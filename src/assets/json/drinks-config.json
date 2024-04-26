@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "layout": "tiles",
+    "headerText": "Alcoholic Drinks",
+    "queryString": "a=Alcoholic",
+    "showControls": false,
+    "itemLimit": 0,
+    "linkEnabled": true
+  }
+]

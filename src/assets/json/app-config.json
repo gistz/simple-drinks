@@ -1,0 +1,11 @@
+{
+    "appName" : "Name",
+    "favIcon": "favicon.ico",
+    "brandLogo": "",
+    "headerText": "Drinks",
+    "headerColor": "deep-orange",
+    "footerText": "",
+    "theme":"dark",
+    "API_URL_DRINKS":"https://www.thecocktaildb.com/api/json/v1/1"
+    
+}

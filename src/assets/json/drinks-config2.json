@@ -1,0 +1,40 @@
+[
+    {
+      "id": "1",
+      "layout": "tiles",
+      "headerText": "Alcoholic Drinks",
+      "queryString": "a=Alcoholic",
+      "showControls": false,
+      "itemLimit": 0,
+      "linkEnabled": true
+    },
+    {
+      "id": "2",
+      "layout": "compact",
+      "headerText": "Non Alcoholic Drinks",
+      "queryString": "a=Non_Alcoholic",
+      "showControls": false,
+      "itemLimit": 0,
+      "linkEnabled": true
+    },
+    {
+      "id": "3",
+      "layout": "tiles",
+      "headerText": "Ordinary Drinks",
+      "queryString": "c=Ordinary_Drink",
+      "showControls": true,
+      "itemLimit": 10,
+      "linkEnabled": false
+    },
+    {
+      "id": "4",
+      "layout": "compact",
+      "headerText": "Cocktail",
+      "queryString": "c=Cocktail",
+      "showControls": false,
+      "itemLimit": 10,
+      "linkEnabled": true
+    }
+    
+  ]
+  
