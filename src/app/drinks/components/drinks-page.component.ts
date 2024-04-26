@@ -39,7 +39,7 @@ export class DrinksPageComponent {
 
   ngOnInit() {
     this.drinkConfigServices
-      .loadConfigurations('drinks-config.json')
+      .loadConfigurations('drinks-config2.json')
       .then((res) => {
         this.drinkListConfigs = this.drinkConfigServices.getConfig();
       });

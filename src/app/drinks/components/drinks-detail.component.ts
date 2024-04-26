@@ -17,10 +17,10 @@ import { StartsWithPipe } from '../../shared/starts-with.pipe';
     @if(drinkDetail$ | async; as drinkDetail) {
     <article class="no-padding fill">
       <div class="grid no-space">
-        <div class="s7">
+        <div class="s12 m7">
           <img class="responsive" [src]="drinkDetail?.strDrinkThumb" />
         </div>
-        <div class="s5">
+        <div class="s12 m5">
           <div class="padding">
             <h3>{{ drinkDetail.strDrink }}</h3>
 
