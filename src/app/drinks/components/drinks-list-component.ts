@@ -50,7 +50,7 @@ import { DrinksService } from '../services/drinks.service';
       >
         <article class="border fill no-padding">
           <div class="row">
-            <img class="square large" [src]="drink.strDrinkThumb" />
+            <img class="round large" [src]="drink.strDrinkThumb" />
             <div class="max">
               <h6 class="small">{{ drink.strDrink }}</h6>
             </div>
